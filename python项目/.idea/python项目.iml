@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/爬取百度维基百科/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/画五角星/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/打印小票/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/类/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/爬虫/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/课后作业/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/SelfPro/Pyspider/01/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/SelfPro/Pro01入门/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/SelfPro/Pyspider/Pro01入门/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/测试项目/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/SelfPro/SecondPro/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
